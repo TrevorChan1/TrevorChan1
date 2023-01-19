@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+
+My name is Trevor Chan and I am a Junior studying computer engineering at Boston University. I love programming and I am excited to see what fun projects I will get to work on in the future.
 
 <!--
 **TrevorChan1/TrevorChan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
