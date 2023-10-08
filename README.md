@@ -1,6 +1,6 @@
 ### Hello!
 
-My name is Trevor Chan and I am a Junior studying computer engineering at Boston University. I love programming and I am excited to see what fun projects I will get to work on in the future.
+My name is Trevor Chan and I am a Senior studying computer engineering at Boston University with particular interests in Cloud and Cybersecurity. I love the projects that I've gotten to work on and I'm excited to learn more about developing cloud and cybersecurity solutions
 
 <!--
 **TrevorChan1/TrevorChan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
